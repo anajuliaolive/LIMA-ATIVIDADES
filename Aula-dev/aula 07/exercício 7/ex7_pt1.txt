@@ -1,0 +1,63 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> . </title>
+</head>
+
+<body> 
+<hr><h2><center> Pizzaria da Ana </center> </h1>
+<p><center> Cardápio </center> </p><hr>
+
+<table>
+<tr>
+<td></td>
+
+<a href="https://www.receitasnestle.com.br/receitas/pizza-4-queijos/">
+<img src="img/pizza4queijos.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="https://www.receitasnestle.com.br/receitas/pizza-de-calabresa/">
+<img src="img/pizzaCababresa.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="https://vitat.com.br/receitas/3551-pizza-de-mussarela-com-palmito-">
+<img src="img/pizzapalmito.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="https://www.hojetemfrango.com.br/receita/pizza-de-frango-com-catupiry-caseira/">
+<img src="img/pizzafrango.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+</tr>
+
+<tr>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.receitasnestle.com.br/receitas/pizza-4-queijos/">Pizza 4 Queijos</a> 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.receitasnestle.com.br/receitas/pizza-de-calabresa/">Pizza Calabresa</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+<a href="https://vitat.com.br/receitas/3551-pizza-de-mussarela-com-palmito-">Pizza Palmito</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+&nbsp&nbsp&nbsp
+<a href="https://www.hojetemfrango.com.br/receita/pizza-de-frango-com-catupiry-caseira/"> Pizza frango com catupiry </a>
+
+
+</tr>
+</td>
+
+</table>
+
+
+</body>
+</html>

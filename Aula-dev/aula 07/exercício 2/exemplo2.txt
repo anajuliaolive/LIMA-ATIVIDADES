@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> Questão 1 </title>
+</head> 
+
+<body>
+
+<h1> <center> Café Starbuzz </center> </h1> 
+<h2><b>Mistura de casa, R$ 1,49</b> </h2>
+<p> &nbsp; &nbsp; Uma mistura suave e delicada de cafés do México, Bolivia e Guatemala</p>
+<br>
+<h2>Café arábico com leite, R$ 2,35 </h2>
+<p> &nbsp; &nbsp; Expresso, leite fervido e xarope de chocolate </p>
+<br>
+<h2><b> Cappucino, R$ 1.89 </b></h2>
+<p> &nbsp; &nbsp; Uma mistura de expresso, leite fervido e espuma </p>
+<br>
+<h2><b>Chá Chai, R$1,85 </b> </h2>
+<p> &nbsp; &nbsp; Uma bebida condimentada com chá preto, especiarias, leite e mel </p>
+
+</body>

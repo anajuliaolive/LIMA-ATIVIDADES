@@ -1,0 +1,147 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> . </title>
+</head> 
+
+<body>
+<h1><center> Meus Favoritos </center> </h1>
+<table>
+<tr><th><h1>Favoritos</h1></th>
+<center><th><h1>Não Favoritos</h1></th></center>
+</tr>
+
+<tr>
+<td>
+<p> <b> Queijo </b> </p>
+<img src="gosto/queijo.jpg" alt="imagem queijo"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Saboroso
+<li> Cremoso
+</ol>
+
+</td>
+<td>
+<p> <b> Chuchu </b> </p>
+<img src="nao gosto/chuchu.jpg" alt="imagem chuchu"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Sem sabor
+<li> Textura
+</ol>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p> <b> Mandala </b> </p>
+<img src="gosto/mandala.jpg" alt="imagem mandala"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Diferente
+<li> Tem um padrão
+</ol>
+
+</td>
+<td>
+<p> <b> Som mastigando </b> </p>
+<img src="nao gosto/mastigando.jpg" alt="imagem mastigando"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Nojento
+<li> Irritante
+</ol>
+</td>
+</tr>
+
+<tr>
+<td>
+<p> <b> Piscina </b> </p>
+<img src="gosto/piscina.jpg" alt="imagem piscina"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Refrescante
+<li> Relaxante
+</ol>
+
+</td>
+<td>
+<p> <b> Acordar cedo </b> </p>
+<img src="nao gosto/acordar cedo.jpg" alt="imagem acordar cedo"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Cansaço
+<li> Menos tempo de sono
+</ol>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p> <b> Por do sol </b> </p>
+<img src="gosto/por do sol.jpg" alt="imagem por do sol"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Bonito
+<li> Radiante
+</ol>
+
+</td>
+<td>
+<p> <b> Rosca doce </b> </p>
+<img src="nao gosto/rosca doce.jpg" alt="imagem rosca doce"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Melada
+<li> Nada apetitosa
+</ol>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p> <b> Pizza </b> </p>
+<img src="gosto/pizza.jpg" alt="imagem pizza"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Cheirosa
+<li> Saborosa
+</ol>
+
+</td>
+<td>
+<p> <b> Ficar gripada </b> </p>
+<img src="nao gosto/imagem gripada.jpg" alt="imagem gripe"height="400">
+<!--lista ordenada-->
+<ol>
+<type="1"> 
+<li> Melada
+<li> Nada apetitosa
+</ol>
+</td>
+</tr>
+
+
+
+
+
+</body
+</html>
+
+
+
+

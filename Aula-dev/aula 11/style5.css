@@ -1,0 +1,26 @@
+img.center {
+    position: relative;
+    right: -850px;
+    height: 200px;
+}
+img.esquerda {
+    float: left;
+    margin-right: 1.5cm;
+    width: 500px;
+    height: 500px;
+}
+
+img.direita {
+    float: right;
+    margin-left: 1.5cm;
+    width:  500px;
+    height: 500px;
+}
+
+h1.semiflutuação {
+    clear: both;
+    text-align: center;
+}
+
+p.esq { text-align: right;
+}

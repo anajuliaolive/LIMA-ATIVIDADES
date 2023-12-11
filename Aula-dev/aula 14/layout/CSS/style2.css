@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(244, 220, 234);
+}
+
+.home{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.icone{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#bloco{
+    height: 600px;
+    width: 670px;
+    margin-top: -120px;
+    margin-left: 420px;
+}
+
+#user{
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-top: -480px;
+    margin-left: 700px;
+}
+
+.formulario{
+    margin-top: -500px;
+    margin-left: 100px;
+    top: 1px;
+    text-align: center;
+    position: relative;
+}
+
+#confirmar{
+    background-color: rgb(241, 126, 193);
+    border-radius: 4px;
+    margin-top: 200px;
+    margin-left: -70px;
+    height: 50px;
+    width: 400px;
+}
+

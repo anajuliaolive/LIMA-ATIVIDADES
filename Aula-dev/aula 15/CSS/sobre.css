@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+body{
+    background-image: linear-gradient(to bottom, rgb(200,133,255), rgb(191,143,255), rgb(33,198,233));
+    font-family: 'Milonga', cursive;
+    font-size: 40px;
+}
+.container{
+    width: 100%;
+    height: 1005px;
+}
+
+.cabeçalho{
+    background-color: rgb(255, 255, 255);
+    width: 101%;
+    height: 70px;
+    margin-left: -7px;
+    margin-top: -10px;
+    display: flex;
+}
+
+
+#pesquisa{
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: -100px;
+    width: 1100px;
+    height: 25px; 
+}
+
+#img1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 25;
+    height: 25px;
+}
+
+#img2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 50;
+    height: 50px;
+}
+
+#img3{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 50px;
+    height: 30px;
+}
+
+#img4{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 90px;
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+}
+
+
+.corpo1{
+    width: 101%;
+    height: 170px;
+    margin-left: -7px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#texto1{
+    display: flex;
+    align-self: center;
+    padding: 100px;
+    margin-top: -30px;
+    text-shadow: rgb(62, 62, 62) 1px 2px 5px;
+}
+
+#texto2{
+    display: flex;
+    align-self: center;
+    padding: 100px;
+    margin-top: 50px;
+    margin-left: -450px;
+    font-size: 15px;
+    color: #ffffff;
+    text-shadow: rgb(62, 62, 62) 1px 2px 5px;
+}
+
+
+#hr{
+    border: 1px solid aqua;
+    width: 1350px;
+}
+
+.corpo2{
+    width: 1400px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: -30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.caixa{
+    background-color: rgb(61, 226, 241);
+    border-radius: 40px;
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 40px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+#img5{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+#texto3{
+    display: flex;
+    align-self: center;
+    margin-top: 60px;
+    margin-left: 580px;
+    font-size: 40px;
+    text-shadow: rgb(62, 62, 62) 1px 2px 5px;
+}
+
+.corpo3{
+    width: 1400px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#caixabranca{
+    background-color: rgba(255, 255, 255, 0.745);
+    border-radius: 40px;
+    margin-top: 100px;
+    margin-left: -20px;
+    height: 300px;
+    width: 800px;
+    z-index: 3;
+}
+
+#texto4{
+    font-size: 15px;
+    margin-left: 160px;
+    margin-top: 45px;
+    width: 500px;
+}
+
+
+
+.corpo4{
+    width: 1400px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+#hr1{
+
+    border: 1px solid rgb(199, 46, 237);
+    width: 1350px;
+    margin-top: -10px;
+}
+
+
+#tr{
+    width: 0px;
+    height: 0px;
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-bottom: 230px solid rgb(194, 29, 81);
+    position: absolute;
+    margin-top: -600px;
+    margin-left: 200px;
+    z-index: 1;
+}
+
+#ci{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to bottom, rgb(205, 237, 62), rgba(96, 191, 37, 0.362));
+    margin-left: 150px;
+    margin-top: -450px;
+    position: absolute;
+    z-index: 1;
+}
+
+#cr{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to bottom, rgb(112, 240, 236), rgb(169, 44, 188));
+    margin-left: 1000px;
+    margin-top: -350px;
+    position: absolute;
+    z-index: 1;
+}
+
+#qu{
+    width: 150px;
+    height: 150px;
+    background-image: linear-gradient(to bottom, rgba(52, 244, 110, 0.9), rgba(84, 162, 245, 0.812));
+    margin-top: -270px;
+    margin-left: 1130px;
+    position: absolute;
+    z-index: 2;
+}

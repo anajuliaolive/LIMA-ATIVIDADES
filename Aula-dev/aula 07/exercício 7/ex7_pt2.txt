@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> . </title>
+<style>
+body{
+background:#FFEBCD
+}
+</style>
+</head>
+
+
+<body>
+<br>
+<br>
+<br>
+<hr><h2><center> Pizzaria da Ana </center> </h1>
+<p><center> Cardápio </center> </p><hr>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
+<table>
+<tr>
+<td></td>
+
+<a href="file:///C:/Users/Instrutor/Desktop/Aula-dev/aula%2007/exerc%C3%ADcio%207/receitas/pagina%201.html">
+<img src="img/pizza4queijos.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="file:///C:/Users/Instrutor/Desktop/Aula-dev/aula%2007/exerc%C3%ADcio%207/receitas/pagina%202.html">
+<img src="img/pizzaCababresa.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="file:///C:/Users/Instrutor/Desktop/Aula-dev/aula%2007/exerc%C3%ADcio%207/receitas/pagina%203.html">
+<img src="img/pizzapalmito.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+<a href="file:///C:/Users/Instrutor/Desktop/Aula-dev/aula%2007/exerc%C3%ADcio%207/receitas/pagina%204.html">
+<img src="img/pizzafrango.jpg"height="235">
+</a> 
+&nbsp&nbsp&nbsp
+
+</tr>
+
+<tr>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="pagina 1.html"> Pizza 4 Queijos</a> 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="pagina 2.html">Pizza Calabresa</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<a href="pagina 3.html">Pizza Palmito</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+&nbsp&nbsp&nbsp
+<a href="pagina 4.html"> Pizza frango com catupiry </a>
+
+
+</tr>
+</td>
+
+</table>
+
+
+</body>
+</html>

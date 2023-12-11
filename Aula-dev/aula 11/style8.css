@@ -1,0 +1,21 @@
+.vertical-menu {
+    width: 200px;
+    text-align: center;
+}
+
+.vertical-menu a{
+    background-color: #eee;
+    color:black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: rgb(178, 180, 182);
+}
+
+.vertical-menu a.active {
+    background-color: rgb(156, 79, 229);
+    color: aliceblue;
+}

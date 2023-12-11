@@ -1,0 +1,44 @@
+.conteiner{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    justify-content: space-between;
+}
+   
+
+.linha1, .linha2 {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+#rosa{
+
+    background-color: rgb(247, 165, 217);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#azul{
+    background-color: rgb(170, 153, 229);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#green{
+    background-color: rgb(230, 227, 168);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#yellow{
+    background-color: rgb(124, 241, 202);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}

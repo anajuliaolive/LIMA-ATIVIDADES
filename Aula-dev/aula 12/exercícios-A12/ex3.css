@@ -1,0 +1,76 @@
+.divazul {
+    background-color: rgb(167, 185, 232);
+    margin-top: 25px;
+    margin-left: 1400px;
+    width:100px ;
+    height:100px;
+    border: 2px solid rgb(0, 0, 0);
+ }
+
+ .texto{
+    position: relative;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 10px;
+    margin-top: -15px;
+ }
+
+
+ .divrosa {
+    text-align: center;
+    background-color: rgb(240, 163, 203);
+    margin-top: -105px;
+    margin-left: 0px;
+    width:100px ;
+    height:100px;
+    border: 2px solid rgb(0, 0, 0);
+
+ }
+
+.texto2{
+    position: relative;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 10px;
+    margin-top: -15px;
+ }
+
+ .diverde{
+    text-align: center;
+    background-color: rgb(163, 240, 222);
+    margin-top: 500px;
+    margin-left: 0px;
+    width:100px ;
+    height:100px;
+    border: 2px solid rgb(0, 0, 0);
+ }
+
+ .texto3{
+    position: relative;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 10px;
+    margin-top: -1px;
+    margin-left: 0px;
+ }
+
+ .divamarelo{
+    text-align: center;
+    float: left;
+    background-color: rgb(240, 231, 163);
+    margin-top: -100px;
+    margin-left: 1400px;
+    width:100px;
+    height:100px;
+    border: 2px solid rgb(0, 0, 0);
+ }
+
+ .texto4{
+    position: relative;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 10px;
+    margin-top: 1px;
+    margin-left: 0px ;
+ }
+

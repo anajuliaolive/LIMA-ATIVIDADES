@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> Pizzaria Ana </title>
+</head>
+
+<body>
+<center>
+
+<h1> Receita pizza palmito </h1><hr>
+<img src="img_2/pizzapalmito.jpg"height="235">
+<p> <pre>
+Ingredientes
+1colher (sopa) de Azeite de oliva extravirgem
+1 unidade de Massa para pizza Massa Leve
+5c olheres (sopa) de Molho de tomate caseiro (tomate, cebola e/ou alho)
+100 gramas de Palmito, juçara, em conserva
+250 gramas de Queijo muçarela
+Orégano seco à gosto
+
+Modo de preparo
+*Coloque o disco de pizza em uma assadeira.
+*Cubra com o molho de tomate.
+*Distribua os palmitos picados sobre o molho.
+*Em seguida, cubra com a mussarela.
+*Regue com azeite e salpique orégano.
+*Leve ao forno médio até que a mussarela derreta.
+*Sirva em seguida.
+</pre> </p>

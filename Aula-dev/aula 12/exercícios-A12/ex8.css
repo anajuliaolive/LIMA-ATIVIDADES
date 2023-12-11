@@ -1,0 +1,20 @@
+#titulo{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.formulario{
+    top: 1px;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    position: relative;
+}
+
+#enviar{
+    background-color: rgb(127, 255, 144);
+    border-radius: 4px;
+}
+
+#limpar{
+    background-color: rgb(255, 133, 127);
+    border-radius: 4px;
+}

@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/cinema.jpg);
+    background-size: cover;
+}
+
+.div{
+float: none;
+color: azure;
+margin-top: 70px;
+margin-left: 700px;
+border: 1px rgb(255, 255, 255);
+}

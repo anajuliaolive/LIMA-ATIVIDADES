@@ -1,0 +1,23 @@
+p {
+    font-size: 12pt;
+}
+p::first-line {
+    color: blue;
+    font-variant: small-caps ;
+}
+
+h1::before {content: url(img/pordosol.jpg);}
+h1::after {content: url(img/pordosol.jpg);}
+
+
+ p::selection {
+    color: red; background: yellow;
+} 
+
+div {
+    background-image: url(img/pordosol.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+
